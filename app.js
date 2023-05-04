@@ -1,7 +1,7 @@
 //Kelime Sayısı Bulma Uygulaması:
 
 //Kullanıcıdan Harfleri girmesini istedik.
-let metin = "Şu anda Yalova'da javascript eğitimi çekmekteyim";
+let metin = "Şu anda  javascript eğitimi yapmaktayım";
 let harf = prompt("Harfi Giriniz:");
 
 // let sonuc = bul(harf);
