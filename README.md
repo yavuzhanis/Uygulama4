@@ -1,1 +1,1 @@
-# Uygulama4
+# Kelime Sayısı Bulma Uygulaması.
